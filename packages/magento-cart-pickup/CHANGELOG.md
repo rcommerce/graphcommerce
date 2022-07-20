@@ -1,5 +1,14 @@
 # Change Log
 
+## 3.1.1
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphcommerce/graphql@3.4.3
+  - @graphcommerce/magento-cart-shipping-method@3.5.1
+  - @graphcommerce/magento-store@4.2.19
+
 ## 3.1.0
 
 ### Minor Changes

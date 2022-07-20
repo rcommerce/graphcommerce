@@ -1,5 +1,14 @@
 # @graphcommerce/ecommerce-ui
 
+## 1.1.4
+
+### Patch Changes
+
+- [#1557](https://github.com/graphcommerce-org/graphcommerce/pull/1557) [`c0a7f9427`](https://github.com/graphcommerce-org/graphcommerce/commit/c0a7f9427466f0a3886b2c3ebf2f0aa5d79ee081) Thanks [@paales](https://github.com/paales)! - WaitForQueries already handles the SSR loading, no need for NoSSR
+
+- Updated dependencies []:
+  - @graphcommerce/graphql@3.4.3
+
 ## 1.1.3
 
 ### Patch Changes

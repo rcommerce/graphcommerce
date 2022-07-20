@@ -1,5 +1,12 @@
 # Change Log
 
+## 4.2.19
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphcommerce/graphql@3.4.3
+
 ## 4.2.18
 
 ### Patch Changes

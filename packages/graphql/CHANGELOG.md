@@ -1,5 +1,12 @@
 # Change Log
 
+## 3.4.3
+
+### Patch Changes
+
+- Updated dependencies [[`475d23197`](https://github.com/graphcommerce-org/graphcommerce/commit/475d23197a6ce4b08cc325f872834ca592aa28dc)]:
+  - @graphcommerce/graphql-codegen-near-operation-file@3.0.16
+
 ## 3.4.2
 
 ### Patch Changes
